@@ -4,30 +4,30 @@
 
 ### Environmental Chemistry
 
-[Chemical Fingerprinting](/sample_page)
+[Chemical Fingerprinting](/pages/Chemical_fingerprinting)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Estimation of background concentrations](/pdf/sample_presentation.pdf)
+[Estimation of background concentrations](/pages/Background_estimation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Remediation biogeochemistry](http://example.com/)
+[Remediation biogeochemistry](/pages/Remediation_ordination)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Hydrogeology
 
-[Three-point problem solver](/sample_page)
+[Three-point problem solver](/pages/Three_point)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Hydrograph blind source separation](/pdf/sample_presentation.pdf)
+[Hydrograph blind source separation](/pages/Hydrograph_decomp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Geophysical log domaining](http://example.com/)
+[Geophysical log domaining](/pages/Borehole_geophysics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
